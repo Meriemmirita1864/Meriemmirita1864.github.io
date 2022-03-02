@@ -1,0 +1,32 @@
+h1{
+	color: #D26509;
+	font-size: 80px;
+}
+
+p.challenge {color: red;}	
+body {
+	background : url("https://www.duperrin.com/wp-content/uploads/2021/02/amelioration-continue-scaled.jpg");
+	background-size: 100%;
+}
+h2{
+	color : #fff
+}
+
+nav.menu ul li.buttom{
+	display: inline-block;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+nav.menu ul li.buttom a{
+	text-decoration: none;
+	color: #D26509;
+	background-color: #E7CAB1;
+	font-size: 40px;
+	padding: 15px;
+}
+
+nav.menu ul li.buttom:hover a{
+	background-color: #723806;
+	transition: 0.8s all;
+}
